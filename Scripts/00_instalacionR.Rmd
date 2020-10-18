@@ -41,7 +41,7 @@ Para instalarla vamos a la siguiente liga y seleccionamos la versión para Mac
 
 * [Rstudio for Mac](https://rstudio.com/products/rstudio/download/#download)
 
-![Interface de Rstudio](https://es.wikipedia.org/wiki/RStudio#/media/Archivo:Rstudio.png)
+![Interface de Rstudio](./Notes/images/Rstudio.png)
 
 ## References
 
