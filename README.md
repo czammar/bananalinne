@@ -15,9 +15,12 @@ Que Alinne pase el trimestre de la maestría.
 
 ## 2. Estructura del repositorio
 
+```
 └── README.md    <-- Readme del repo (descriptivo)
 ├── LICENSE      <-- Licencia
-├── Data         <-- Datasets
-├── Notes        <-- Notas de la clases (if any)
-├── Referencias  <-- Referencias sobre magia negra
-└── Scripts      <-- Scripts de R
+├── Data         <-- Carpeta de datasets
+├── Notes        <-- Carpeta de notas de la clases (if any)
+├── Notebooks    <-- Carpeta de notebooks o Rmarkdowns
+├── Referencias  <-- Carpeta con referencias sobre magia negra
+└── Scripts      <-- Carpeta de Scripts de R
+```
