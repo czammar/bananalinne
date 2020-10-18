@@ -24,3 +24,8 @@ Que Alinne pase el trimestre de la maestría.
 ├── Referencias  <-- Carpeta con referencias sobre magia negra
 └── Scripts      <-- Carpeta de Scripts de R
 ```
+
+## 3. Referencias
+
+* [R installer for Mac](https://cran.r-project.org/bin/macosx/)
+* [Rstudio for Mac](https://rstudio.com/products/rstudio/download/#download)
