@@ -1,0 +1,49 @@
+---
+title: "Instalando R"
+author: "Cesar Zamora"
+date: "10/17/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 1. R y Rstudio
+
+### 1.1 Lenguaje R
+
+R es un lenguaje de programación orientado al computo científico y estadística.
+Tiene varias particularidades que lo hacen óptimo para dichas tareas:
+
+* Open Source (no tiene costo y se puede ver el codigo fuente con algunas 
+reservas)
+* Multiplataforma,
+* Tiene una comunidad muy grande que mantiene y crea nuevos paquetes
+* Es flexible y permite abordar temas de estadistica, analisis de datos, 
+visualizaciones, machine learning y muchos otros,
+* Sigue una lógica de programación funcional (aunque ha cambiado mucho)
+
+Para instalarlo iremos aquí y seleccionaremos el archivo **.pkg** o la extensión
+adecuada para nuestro OS:
+
+ * [R installer for Mac](https://cran.r-project.org/bin/macosx/)
+
+Esto instala R para usarse en la **terminal**... (╯°□°)╯︵ ┻━┻
+
+### 1.2 Rstudio
+
+Rstudio es un entorno de desarrollo integrado (IDE) para R (aunque se puede usar
+para muchos otros lenguajes), lo que quiere decir que provee una interface más
+amigable y que nos ayuda mucho a trabajar con este lenguaje.
+
+Para instalarla vamos a la siguiente liga y seleccionamos la versión para Mac
+
+* [Rstudio for Mac](https://rstudio.com/products/rstudio/download/#download)
+
+![Interface de Rstudio](https://es.wikipedia.org/wiki/RStudio#/media/Archivo:Rstudio.png)
+
+## References
+
+* [R-project webpage](https://www.r-project.org)
+* [Rstudio](https://rstudio.com)
