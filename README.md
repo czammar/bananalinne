@@ -15,4 +15,9 @@ Que Alinne pase el trimestre de la maestría.
 
 ## 2. Estructura del repositorio
 
-[WIP: Pendiente]
+└── README.md    <-- Readme del repo (descriptivo)
+├── LICENSE      <-- Licencia
+├── Data         <-- Datasets
+├── Notes        <-- Notas de la clases (if any)
+├── Referencias  <-- Referencias sobre magia negra
+└── Scripts      <-- Scripts de R
